@@ -1,0 +1,13 @@
+date,city,temperature,wind_speed,precipitation,source
+2/6/2026,Lahore,16.77,4.41,0,open-meteo.com
+2/6/2026,Lahore,17,9.33,0,visualcrossing.com
+2/7/2026,Lahore,17.25,8.78,0,open-meteo.com
+2/7/2026,Lahore,17.28,14.81,0,visualcrossing.com
+2/8/2026,Lahore,17.17,6.18,0,open-meteo.com
+2/8/2026,Lahore,17.72,11.27,0,visualcrossing.com
+2/13/2026,Rawalpindi,14.9,4.01,0,open-meteo.com
+2/13/2026,Rawalpindi,14.5,9.33,0,visualcrossing.com
+2/14/2026,Rawalpindi,15.58,6.72,0,open-meteo.com
+2/14/2026,Rawalpindi,14.72,14,0,visualcrossing.com
+2/15/2026,Rawalpindi,15.7,4.78,0,open-meteo.com
+2/15/2026,Rawalpindi,15.28,11.91,0,visualcrossing.com

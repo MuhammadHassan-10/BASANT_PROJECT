@@ -1,0 +1,24 @@
+date,city,incident_type,incident_category,count,severity,source_type,url,description,cross_source_dup
+2026-02-06,Lahore,death,fatality,1,fatal,Media,https://www.geo.tv/latest/649309-basant-one-killed-five-injured-in-kite-flying-incidents-in-lahore,A man died of electrocution while retrieving a kite.,False
+2026-02-06,Lahore,injury,physical_injury,5,moderate,Media,https://www.geo.tv/latest/649309-basant-one-killed-five-injured-in-kite-flying-incidents-in-lahore,Five people were injured in kite‑flying incidents.,True
+2026-02-06,Lahore,rooftop_fall,physical_injury,1,moderate,Media,https://www.dawn.com/news/1971406,Person fell from rooftop while chasing a kite.,False
+2026-02-06,Lahore,electrocution,fatality,1,fatal,Media,https://propakistani.pk/2026/02/06/basant-in-lahore-reportedly-leaves-5-injured-and-1-dead/,Man electrocuted climbing an electric pole.,False
+2026-02-06,Lahore,injury,physical_injury,7,moderate,Media,https://www.pakistantoday.com.pk/2026/02/06/sop-violations-mar-basant-as-electrocution-death-seven-injuries-reported/,Seven injuries reported on first day.,True
+2026-02-07,Lahore,death,fatality,3,fatal,Official,https://www.dawn.com/news/1971744,Three deaths due to falls and electrocution.,False
+2026-02-07,Lahore,injury,physical_injury,50,moderate,Official,https://www.dawn.com/news/1971744,50 injuries due to kite strings.,False
+2026-02-07,Lahore,rooftop_fall,physical_injury,4,moderate,Official,https://www.dawn.com/news/1971744,Multiple rooftop fall incidents.,False
+2026-02-07,Lahore,kite_string_injury,physical_injury,6,moderate,Media,https://www.pakwheels.com/blog/kite-string-injuries-hit-motorcyclists-in-lahore-basant-2026/,Motorcyclists injured by kite strings.,False
+2026-02-08,Lahore,death,fatality,2,fatal,Media,https://tribune.com.pk/story/2591473/kite-flying-incidents-claim-lives,Two deaths due to unsafe kite flying.,False
+2026-02-08,Lahore,injury,physical_injury,60,moderate,Official,https://www.pakistantoday.com.pk/2026/02/08/rooftop-falls-and-kite-string-injuries-mar-basant-celebrations-118-cases-reported-so-far,60 injuries recorded.,False
+2026-02-08,Lahore,total_accidents,aggregate_report,118,high,Official,https://www.pakistantoday.com.pk/2026/02/08/rooftop-falls-and-kite-string-injuries-mar-basant-celebrations-118-cases-reported-so-far,118 total incidents recorded in two days.,False
+2026-02-08,Lahore,death_total,fatality,6,fatal,Official,https://www.pakistantoday.com.pk/2026/02/08/rooftop-falls-and-kite-string-injuries-mar-basant-celebrations-118-cases-reported-so-far,Six deaths reported in early phase.,False
+2026-02-08,Lahore,traffic,infrastructure,1,low,Media,https://www.dawn.com/news/1972030,Traffic congestion reported.,False
+2026-02-08,Lahore,public_transport_incident,infrastructure,1,low,Media,https://www.dawn.com/news/1972030,Metro bus disturbance reported.,False
+2026-02-14,Rawalpindi,injury,physical_injury,7,moderate,Media,https://www.dawn.com/news/1973042,Seven injured due to kite strings.,False
+2026-02-14,Rawalpindi,gunfire_injury,physical_injury,1,severe,Media,https://www.dawn.com/news/1973042,One injured by aerial firing.,False
+2026-02-14,Rawalpindi,traffic,infrastructure,1,low,Media,https://propakistani.pk/2026/02/14/basant-celebrations-continue-in-rawalpindi-despite-government-ban/,Traffic congestion reported.,False
+2026-02-15,Rawalpindi,arrest,law_enforcement,50,low,Official,https://tribune.com.pk/story/2592820/rawalpindi-police-arrest-50-basant-violators,50 violators arrested.,False
+2026-02-15,Rawalpindi,injury,physical_injury,3,moderate,Media,https://www.dawn.com/news/1973098,Three injured in kite string accidents.,False
+2026-02-16,Rawalpindi,arrest,law_enforcement,165,low,Official,https://tribune.com.pk/story/2592775/rawalpindi-intensifies-basant-crackdown,165 violators arrested.,False
+2026-02-16,Rawalpindi,seizure,law_enforcement,4245,low,Official,https://tribune.com.pk/story/2592775/rawalpindi-intensifies-basant-crackdown,Thousands of kites seized.,False
+2026-02-25,Lahore,death_total,fatality,17,fatal,Official,https://www.pakistantoday.com.pk/2026/02/25/17-fatalities-during-basant-celebrations-reported-to-lahore-high-court,17 total deaths confirmed.,False

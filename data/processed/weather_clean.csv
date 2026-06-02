@@ -1,0 +1,7 @@
+date,city,temperature,wind_speed,precipitation,sources,temp_score,wind_score,precip_score,suitability_score,suitability_label
+2026-02-06,Lahore,16.88,6.87,0.0,open-meteo.com | visualcrossing.com,40,40,20,100,excellent
+2026-02-07,Lahore,17.26,11.8,0.0,open-meteo.com | visualcrossing.com,40,40,20,100,excellent
+2026-02-08,Lahore,17.44,8.72,0.0,open-meteo.com | visualcrossing.com,40,40,20,100,excellent
+2026-02-13,Rawalpindi,14.7,6.67,0.0,open-meteo.com | visualcrossing.com,40,40,20,100,excellent
+2026-02-14,Rawalpindi,15.15,10.36,0.0,open-meteo.com | visualcrossing.com,40,40,20,100,excellent
+2026-02-15,Rawalpindi,15.49,8.35,0.0,open-meteo.com | visualcrossing.com,40,40,20,100,excellent

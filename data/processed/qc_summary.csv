@@ -1,0 +1,22 @@
+modality,check_id,check_name,n_before,n_after,n_flagged,action,notes
+news,QC-N1,Required columns present,28,28,0,pass,All required columns present
+news,QC-N2,City values recognisable,28,28,0,pass,0 rows with unrecognised city
+news,QC-N3,Date parse success,28,28,0,pass,0 rows with unparseable dates
+news,QC-N4,Duplicate URL check,28,28,0,pass,0 duplicate URLs removed
+news,QC-N5,Non-empty headline check,28,28,0,flag,0 empty headlines flagged
+social,QC-S1,Minimum sample size (>=30 posts),30,30,0,pass,Sample size = 30
+social,QC-S2,Date parse success,30,30,0,pass,0 rows with bad dates dropped
+social,QC-S3,Duplicate URL check,30,30,0,pass,
+social,QC-S4,Posts within analysis window,30,30,7,flag,"7 posts outside core analysis window (kept, flagged)"
+weather,QC-W1,Temperature numeric coercion,12,12,0,pass,0 non-numeric temperature values
+weather,QC-W2,Wind speed numeric coercion,12,12,0,pass,
+weather,QC-W3,Duplicate city/date rows (multiple sources),12,6,6,average,Two sources per city/date averaged into one canonical row
+weather,QC-W4,"Suitability score in [0,100]",6,6,0,pass,
+incidents,QC-I1,Date parse success,23,23,0,pass,
+incidents,QC-I2,Deduplication (same date/city/type/url),23,23,0,pass,Same incident reported by same URL deduplicated
+incidents,QC-I3,Severity vocabulary validation,23,23,0,pass,0 rows with non-standard severity values
+images,QC-M1,Minimum image sample (>=20),22,22,0,pass,Sample = 22 images
+images,QC-M2,Image URL present,22,22,0,pass,0 images without URL
+videos,QC-V1,Minimum video sample (>=10),12,12,0,pass,Sample = 12 videos
+videos,QC-V2,Video URL present,12,12,0,pass,
+videos,QC-V3,Duplicate video_id,12,12,0,pass,

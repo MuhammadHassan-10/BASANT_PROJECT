@@ -1,0 +1,122 @@
+record_id,modality,city,date,source_ref,text_field
+N_DAW_20260202_0,news,Lahore,2026-02-02,https://www.dawn.com/news/1970464,Lahore prepares to recapture Basant magic
+N_DAW_20260203_1,news,Lahore,2026-02-03,https://www.dawn.com/news/1970829,Basant set to make grand return under clear skies
+N_DAW_20260204_2,news,Lahore,2026-02-04,https://www.dawn.com/news/1971014,Public holidays announced for Basant
+N_EXP_20260204_3,news,Lahore,2026-02-04,https://tribune.com.pk/story/2590727/in-picture-lahores-markets-and-streets-come-alive-for-basant-after-years,Lahore markets revive for Basant
+N_AL _20260207_4,news,Lahore,2026-02-07,https://www.aljazeera.com/features/2026/2/7/how-basant-became-lahores-signature-festival-in-pakistan,Basant returns as cultural festival
+N_GEO_20260206_5,news,Lahore,2026-02-06,https://www.geo.tv/latest/649309-basant-one-killed-five-injured-in-kite-flying-incidents-in-lahore,One killed in Basant incidents
+N_DAW_20260206_6,news,Lahore,2026-02-06,https://www.dawn.com/news/1971406,Injuries reported on Basant opening day
+N_PAK_20260208_7,news,Lahore,2026-02-08,https://www.pakistantoday.com.pk/2026/02/08/rooftop-falls-and-kite-string-injuries-mar-basant-celebrations-118-cases-reported-so-far,118 accidents reported during Basant
+N_DAW_20260208_8,news,Lahore,2026-02-08,https://www.dawn.com/news/1971848,118 Basant accidents reported
+N_EXP_20260208_9,news,Lahore,2026-02-08,https://tribune.com.pk/story/2591473/kite-flying-incidents-claim-lives,Deaths reported during Basant
+N_DAW_20260209_10,news,Lahore,2026-02-09,https://www.dawn.com/news/1972030,Transport system faces rush during Basant
+N_DAW_20260212_11,news,Lahore,2026-02-12,https://www.dawn.com/news/1972680,Police report on Basant incidents ordered
+N_EXP_20260211_12,news,Lahore,2026-02-11,https://tribune.com.pk/story/2591902/petition-seeks-action-over-basant-deaths,Petition filed over Basant deaths
+N_PRO_20260225_13,news,Lahore,2026-02-25,https://propakistani.pk/2026/02/25/17-dead-during-basant-festival-in-lahore/,17 deaths reported during Basant
+N_DAW_20260225_14,news,Lahore,2026-02-25,https://www.dawn.com/news/1975664,17 deaths confirmed in Basant report
+N_GUL_20260225_15,news,Lahore,2026-02-25,https://gulfnews.com/world/asia/pakistan/basant-revival-under-court-scrutiny-as-17-die-in-lahore-celebrations-1.500455053,Basant under scrutiny after deaths
+N_REU_20260206_16,news,Lahore,2026-02-06,https://www.reuters.com/world/asia-pacific/kites-victory-cries-fill-lahore-skies-festival-returns-after-long-ban-2026-02-06/,Basant returns after long ban
+N_AP _20260206_17,news,Lahore,2026-02-06,https://apnews.com/article/59cd53ac8a990d6be24823cad45ef720,Basant revived with safety measures
+N_DAI_20260203_18,news,Lahore,2026-02-03,https://en.dailypakistan.com.pk/03-Feb-2026/basant-2026-case-filed-for-riding-bike-without-safety-rod-in-lahore,Safety violations crackdown begins
+N_PAK_20260206_19,news,Lahore,2026-02-06,https://www.pakistantoday.com.pk/2026/02/06/sop-violations-mar-basant-as-electrocution-death-seven-injuries-reported/,Electrocution death during Basant
+N_DAI_20260206_20,news,Lahore,2026-02-06,https://dailyittehad.com.pk/news/2026/02/06/basant-returns-to-lahore-after-two-decades-with-verve/,Festival begins with violations
+N_PRO_20260206_21,news,Lahore,2026-02-06,https://propakistani.pk/2026/02/06/basant-in-lahore-reportedly-leaves-5-injured-and-1-dead/,Early incidents reported
+N_PAK_20260207_22,news,Lahore,2026-02-07,https://www.pakwheels.com/blog/kite-string-injuries-hit-motorcyclists-in-lahore-basant-2026/,Motorcyclists injured by kite strings
+N_DAW_20260214_23,news,Rawalpindi,2026-02-14,https://www.dawn.com/news/1973042,Residents defy Basant ban in Rawalpindi
+N_EXP_20260216_24,news,Rawalpindi,2026-02-16,https://tribune.com.pk/story/2592775/rawalpindi-intensifies-basant-crackdown,Police crackdown intensifies
+N_PRO_20260214_25,news,Rawalpindi,2026-02-14,https://propakistani.pk/2026/02/14/basant-celebrations-continue-in-rawalpindi-despite-government-ban/,Illegal Basant celebrations continue
+N_DAW_20260215_26,news,Rawalpindi,2026-02-15,https://www.dawn.com/news/1973100,Rawalpindi sees scattered Basant celebrations despite ban
+N_EXP_20260215_27,news,Rawalpindi,2026-02-15,https://tribune.com.pk/story/2592850/rawalpindi-basant-crackdown-continues,Crackdown continues in Rawalpindi
+S_FAC_20260106_0,social,Lahore,2026-01-06,https://www.facebook.com/share/v/1aRyTKGMCo/,LAHORE BASANT STOCK PACKING FOR COMING SOON BASANT 2026
+S_INS_20260202_1,social,Lahore,2026-02-02,https://www.instagram.com/reel/DUOl_szDFNV/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==,Lahore on Basant is not just a festival its a whole emotion ????
+S_TWI_20260203_2,social,Lahore,2026-02-03,https://x.com/pid_gov/status/basant-pmd-weather,"Mainly dry weather with clear skies is expected on 6th and 7th February, while d"
+S_FAC_20260205_3,social,Lahore,2026-02-05,https://www.facebook.com/share/p/1CmFDfxtWg/,Basant 2026 has transformed Lahore into a prime destination for international to
+S_FAC_20260205_4,social,Lahore,2026-02-05,https://www.facebook.com/share/v/1FUDBxTjTb/,Basant Festival Lahore 2026
+S_FAC_20260206_5,social,Lahore,2026-02-06,https://www.facebook.com/share/r/1CLKHf3H8y/,Lahore Basant
+S_INS_20260206_6,social,Lahore,2026-02-06,https://www.instagram.com/reel/DUbLJeziKkH/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==,Basant at FCCU
+S_TWI_20260206_7,social,Lahore,2026-02-06,https://x.com/pmln_org/status/2000433645291819500,"After 25 years, Basant returns to Lahore! The city of lights and colors will onc"
+S_TWI_20260206_8,social,Lahore,2026-02-06,https://x.com/Marriyum_A/status/basant-revival,CM Punjab Maryam Nawaz has approved the revival of our beloved Heritage Basant F
+S_FAC_20260206_9,social,Lahore,2026-02-06,https://www.facebook.com/expressnewspk/posts/1401192575370065,Basant 2026 returns to Lahore after years - kite flying allowed with strict safe
+S_FAC_20260206_10,social,Lahore,2026-02-06,https://www.facebook.com/paa.gov.pk/posts/122185286930543514,Important Public Notice Basant Festival 2026 - in line with aviation safety requ
+S_FAC_20260206_11,social,Lahore,2026-02-06,https://www.facebook.com/p/Basant-Festival-In-Rawalpindi-m-100063725512499,"Lahore's iconic Basant Festival is officially returning on Feb 6-8, 2026 - marki"
+S_INS_20260207_12,social,Lahore,2026-02-07,https://www.instagram.com/reel/DUWUdKOiOiZ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==,Lahore Basant 2026
+S_TWI_20260207_13,social,Lahore,2026-02-07,https://x.com/PakStartup/status/2020173070720258505?s=20,"The festival is estimated to have generated between Rs. 4 and 6 billion, deliver"
+S_FAC_20260208_14,social,Lahore,2026-02-08,https://www.facebook.com/share/r/1FPP5vhR5G/,Aerial view of Lahore city on the Basant Night 2026
+S_FAC_20260208_15,social,Lahore,2026-02-08,https://www.facebook.com/share/r/1HpmCwkMN7/,Basant pr Lahore ke Manazir
+S_INS_20260208_16,social,Lahore,2026-02-08,https://www.instagram.com/reel/DUeAPQDDPaY/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==,POV  Basant in Lahore
+S_INS_20260209_17,social,Lahore,2026-02-09,https://www.instagram.com/p/DUiXAJAkd1A/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==,Basant'26
+S_FAC_20260214_18,social,Lahore,2026-02-14,https://www.facebook.com/share/v/1Av2q47Uri/,Lahore Androon Basant Last DayEnd Hogya Sary Record Tor Diay Basant 2026 Lahore
+S_INS_20260212_19,social,Rawalpindi,2026-02-12,https://www.instagram.com/reel/DUa8zbZCJVO/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==,Rawalpindi Basant 2k26
+S_FAC_20260212_20,social,Rawalpindi,2026-02-12,https://www.facebook.com/Mianbilalahmed65/posts/1346449120610789,"Rawalpindi city Basant date official 12-13 February, Thursday-Friday 2026 InshaA"
+S_FAC_20260213_21,social,Rawalpindi,2026-02-13,https://www.facebook.com/share/r/18N43XcfrS/,Pindi Basant 2026 seen A?????
+S_INS_20260213_22,social,Rawalpindi,2026-02-13,https://www.instagram.com/reel/DUstM90jE9w/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==,Rawaklpindi Basant live scenes
+S_FAC_20260213_23,social,Rawalpindi,2026-02-13,https://www.facebook.com/kitebasantfestival.com.pk/posts/1426911745699777,Rawalpindi Basant 2026 - Branded festival. Beautiful celebrations across the cit
+S_INS_20260213_24,social,Rawalpindi,2026-02-13,https://www.instagram.com/p/DT-zuFYjFNR/,Basant Family Festival 2026 in Rawalpindi  Islamabad - join us for a colorful ce
+S_INS_20260213_25,social,Rawalpindi,2026-02-13,https://www.instagram.com/popular/rawalpindi-basant-night-2026/,"Rawalpindi Basant Night 2026 - rooftops lit up, kites in the night sky, celebrat"
+S_FAC_20260214_26,social,Rawalpindi,2026-02-14,https://www.facebook.com/share/r/17yGpZV2qS/,Pindi Basant 2026
+S_INS_20260214_27,social,Rawalpindi,2026-02-14,https://www.instagram.com/p/DUCYHU7iicJ/,"Basant Family Festival 2026 in Rawalpindi  Islamabad - kites, colors and spring "
+S_FAC_20260215_28,social,Rawalpindi,2026-02-15,https://www.facebook.com/share/v/1C1brZF7uZ/,Pindi basant 2026
+S_TWI_20260215_29,social,Rawalpindi,2026-02-15,https://x.com/PakStartup/status/2022898710053601409?s=20,Basant Celebrations Continue in Rawalpindi Despite Official B@n
+I_LAH_20260206_0,incident,Lahore,2026-02-06,https://www.geo.tv/latest/649309-basant-one-killed-five-injured-in-kite-flying-incidents-in-lahore,death
+I_LAH_20260206_1,incident,Lahore,2026-02-06,https://www.geo.tv/latest/649309-basant-one-killed-five-injured-in-kite-flying-incidents-in-lahore,injury
+I_LAH_20260206_2,incident,Lahore,2026-02-06,https://www.dawn.com/news/1971406,rooftop_fall
+I_LAH_20260206_3,incident,Lahore,2026-02-06,https://propakistani.pk/2026/02/06/basant-in-lahore-reportedly-leaves-5-injured-and-1-dead/,electrocution
+I_LAH_20260206_4,incident,Lahore,2026-02-06,https://www.pakistantoday.com.pk/2026/02/06/sop-violations-mar-basant-as-electrocution-death-seven-injuries-reported/,injury
+I_LAH_20260207_5,incident,Lahore,2026-02-07,https://www.dawn.com/news/1971744,death
+I_LAH_20260207_6,incident,Lahore,2026-02-07,https://www.dawn.com/news/1971744,injury
+I_LAH_20260207_7,incident,Lahore,2026-02-07,https://www.dawn.com/news/1971744,rooftop_fall
+I_LAH_20260207_8,incident,Lahore,2026-02-07,https://www.pakwheels.com/blog/kite-string-injuries-hit-motorcyclists-in-lahore-basant-2026/,kite_string_injury
+I_LAH_20260208_9,incident,Lahore,2026-02-08,https://tribune.com.pk/story/2591473/kite-flying-incidents-claim-lives,death
+I_LAH_20260208_10,incident,Lahore,2026-02-08,https://www.pakistantoday.com.pk/2026/02/08/rooftop-falls-and-kite-string-injuries-mar-basant-celebrations-118-cases-reported-so-far,injury
+I_LAH_20260208_11,incident,Lahore,2026-02-08,https://www.pakistantoday.com.pk/2026/02/08/rooftop-falls-and-kite-string-injuries-mar-basant-celebrations-118-cases-reported-so-far,total_accidents
+I_LAH_20260208_12,incident,Lahore,2026-02-08,https://www.pakistantoday.com.pk/2026/02/08/rooftop-falls-and-kite-string-injuries-mar-basant-celebrations-118-cases-reported-so-far,death_total
+I_LAH_20260208_13,incident,Lahore,2026-02-08,https://www.dawn.com/news/1972030,traffic
+I_LAH_20260208_14,incident,Lahore,2026-02-08,https://www.dawn.com/news/1972030,public_transport_incident
+I_RAW_20260214_15,incident,Rawalpindi,2026-02-14,https://www.dawn.com/news/1973042,injury
+I_RAW_20260214_16,incident,Rawalpindi,2026-02-14,https://www.dawn.com/news/1973042,gunfire_injury
+I_RAW_20260214_17,incident,Rawalpindi,2026-02-14,https://propakistani.pk/2026/02/14/basant-celebrations-continue-in-rawalpindi-despite-government-ban/,traffic
+I_RAW_20260215_18,incident,Rawalpindi,2026-02-15,https://tribune.com.pk/story/2592820/rawalpindi-police-arrest-50-basant-violators,arrest
+I_RAW_20260215_19,incident,Rawalpindi,2026-02-15,https://www.dawn.com/news/1973098,injury
+I_RAW_20260216_20,incident,Rawalpindi,2026-02-16,https://tribune.com.pk/story/2592775/rawalpindi-intensifies-basant-crackdown,arrest
+I_RAW_20260216_21,incident,Rawalpindi,2026-02-16,https://tribune.com.pk/story/2592775/rawalpindi-intensifies-basant-crackdown,seizure
+I_LAH_20260225_22,incident,Lahore,2026-02-25,https://www.pakistantoday.com.pk/2026/02/25/17-fatalities-during-basant-celebrations-reported-to-lahore-high-court,death_total
+W_LAH_20260206,weather,Lahore,2026-02-06,open-meteo.com | visualcrossing.com,temp=16.88 wind=6.87 suit=100
+W_LAH_20260207,weather,Lahore,2026-02-07,open-meteo.com | visualcrossing.com,temp=17.26 wind=11.8 suit=100
+W_LAH_20260208,weather,Lahore,2026-02-08,open-meteo.com | visualcrossing.com,temp=17.44 wind=8.72 suit=100
+W_RAW_20260213,weather,Rawalpindi,2026-02-13,open-meteo.com | visualcrossing.com,temp=14.7 wind=6.67 suit=100
+W_RAW_20260214,weather,Rawalpindi,2026-02-14,open-meteo.com | visualcrossing.com,temp=15.15 wind=10.36 suit=100
+W_RAW_20260215,weather,Rawalpindi,2026-02-15,open-meteo.com | visualcrossing.com,temp=15.49 wind=8.35 suit=100
+M_IMG001,image,Lahore,2026-08-02,https://dailytimes.com.pk/assets/uploads/2026/02/01/Basant-2026-Lahore.jpg,crowd=low kite=yes
+M_IMG002,image,Lahore,2026-06-02,https://static.pakwheels.com/2026/02/69826c47691bd.jpg,crowd=low kite=likely
+M_IMG003,image,Lahore,2026-06-02,https://d2udx5iz3h7s4h.cloudfront.net/2026/2/5/AP/image/Pakistan_Basant_Festival_96331.jpg?width=1440&format=webp&quality=80,crowd=low kite=yes
+M_IMG004,image,Lahore,2026-08-02,https://www.geo.tv/assets/uploads/updates/2026-02-09/649807_1662372_updates.jpg,crowd=low kite=likely
+M_IMG005,image,Lahore,2026-06-02,https://www.arabnews.pk/sites/default/files/pictures/February/2999496/2026/basant_2s.jpg,crowd=low kite=yes
+M_IMG006,image,Rawalpindi,2026-06-02,https://i.dawn.com/primary/2025/12/29150929761be5f.gif,crowd=medium kite=likely
+M_IMG007,image,Rawalpindi,2026-08-02,https://i.dawn.com/primary/2026/02/698f7f4b5374d.jpg,crowd=medium kite=likely
+M_IMG008,image,Rawalpindi,2026-06-02,https://i.tribune.com.pk/media/images/basant1767122888-0/basant1767122888-0-640x480.webp,crowd=medium kite=yes
+M_IMG009,image,Lahore,2026-07-02,https://www.aljazeera.com/wp-content/uploads/2026/02/AP26036492836381-1770408683.jpg?resize=770%2C513&quality=80,crowd=low kite=likely
+M_IMG010,image,Lahore,2026-06-02,https://www.aljazeera.com/wp-content/uploads/2026/02/AP26037621614416-1770408823.jpg?w=770&resize=770%2C513&quality=80,crowd=low kite=likely
+M_IMG011,image,Lahore,2026-08-02,https://media.assettype.com/gulfnews%2F2026-02-06%2Fngs1d5a2%2Fnewsml_afp_com_20260206T132100Z_doc_96ej2ah.jpeg?w=640&auto=format%2Ccompress&fit=max,crowd=low kite=likely
+M_IMG012,image,Lahore,2026-06-02,https://dims.apnews.com/dims4/default/2fa8aae/2147483647/strip/true/crop/7686x5124+0+0/resize/2880x1920!/format/webp/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff6%2Fb9%2Fced7cb701c51bcfa2d102fc34649%2F8e403a5d39014001998c71d6174a0ded,crowd=low kite=likely
+M_IMG013,image,Lahore,2026-07-02,https://img.dunyanews.tv/news/2026/February/02-04-26/news_big_images/933519_89446767.jpg,crowd=low kite=likely
+M_IMG014,image,Lahore,2026-06-02,https://dims.apnews.com/dims4/default/6b170e4/2147483647/strip/true/crop/7243x4829+0+0/resize/2720x1814!/format/webp/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0b%2Fb0%2F3534eafcee5c304a91694fa2ca6c%2Fabf494705c664971bafb981b71fa2fe6,crowd=low kite=likely
+M_IMG015,image,Lahore,2026-07-02,https://www.geo.tv/assets/uploads/updates/2026-02-06/649272_4374149_updates.jpeg,crowd=low kite=likely
+M_IMG016,image,Lahore,2026-07-02,https://dims.apnews.com/dims4/default/ebb6e9c/2147483647/strip/true/crop/8181x5456+2+0/resize/2720x1814!/format/webp/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7a%2F4c%2F80ace4066e98ee5a69269f4dc067%2F015da3d4b7184e0cb82f94f8e4b1a5f4,crowd=low kite=likely
+M_IMG017,image,Rawalpindi,2026-06-02,https://i.dawn.com/primary/2026/02/697fd522b00fe.jpg,crowd=medium kite=likely
+M_IMG018,image,Rawalpindi,2026-08-02,https://i.tribune.com.pk/media/images/1324077-image-1486839285/1324077-image-1486839285-640x480.webp,crowd=medium kite=likely
+M_IMG019,image,Lahore,2026-06-02,https://dims.apnews.com/dims4/default/621c3ab/2147483647/strip/true/crop/5992x3995+0+0/resize/2720x1814!/format/webp/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F92%2F7e%2Fc4cb53eb204f35b39d296c781647%2Ffde95487dd684a10ba700e1f70a866e2,crowd=low kite=likely
+M_IMG020,image,Lahore,2026-07-02,https://www.24newshd.tv/digital_images/large/2026-02-07/basant-celebrations-continue-lahore-second-day-festivities-1770483211-4630.png,crowd=low kite=yes
+M_IMG021,image,Lahore,2026-08-02,https://www.thenews.pk/assets/uploads/updates/2026-02-08/1397937_589700_Untitled-6_updates.jpg,crowd=low kite=likely
+M_IMG022,image,Lahore,2026-08-02,https://i.tribune.com.pk/media/images/et-shayan-11770196079-3/et-shayan-11770196079-3.png,crowd=low kite=likely
+V_VID001,video,Lahore,2026-06-02,https://www.youtube.com/watch?v=s3SN12e1-No,"Mochi Gate Lahore Basant 2026 Market - Kite, Gudda And Dor Prices Revealed"
+V_VID002,video,Rawalpindi,2026-08-02,https://www.youtube.com/watch?v=9vvHE9lRxAI,Rawalpindi Basant 2026 😱 Pindi Basant ki Tayari full arooj par
+V_VID003,video,Lahore,2026-08-02,https://www.urdupoint.com/videos/basant-last-night-in-lahore-families-celebrate-with-kite-flying-on-rooftops-festival-fun.html,Basant Last Night In Lahore | Families Celebrate With Kite Flying On Rooftops & 
+V_VID004,video,Lahore,2026-06-02,https://www.youtube.com/watch?v=CNdHIsSv0v8,Lahore Basant 2026 | Amazing facts & History of Lahore
+V_VID005,video,Lahore,2026-07-02,https://www.urdupoint.com/videos/basant-in-lahore-view-of-lahores-basant-celebrations-from-citys-highest-most-expensive-rooftop.html,Basant In Lahore: View Of Lahore's Basant Celebrations From City's Highest & Mos
+V_VID006,video,Lahore,2026-08-02,https://www.youtube.com/watch?v=auWpe7cBRM8,Basant 2026 Lahore: GPO Rooftop Available For Kite Flying | Rooftop Rent & Kite 
+V_VID007,video,Lahore,2026-07-02,https://www.youtube.com/watch?v=9yNP4eWapjE,Major Kite Flying Battles Started on Largest Rooftop at Bhati Chowk for Basant -
+V_VID008,video,Lahore,2026-07-02,https://www.youtube.com/watch?v=w7ovY3YkPIs,2026 Lahore Night Basant par Saab Record tut gye😱|1000+ Gudda khareed liya🤩
+V_VID009,video,Rawalpindi,2026-08-02,https://www.youtube.com/watch?v=WuOsWXPLmyo,2026 Basant ! Rawalpindi ny record tor dala 😱 police or pindi boy ki jang
+V_VID010,video,Lahore,2026-08-02,https://www.youtube.com/watch?v=mewBBSSCN6c,Basant Lahore 2026: Record Breaking Kite Flying in Androon!
+V_VID011,video,Rawalpindi,2026-06-02,https://www.youtube.com/watch?v=Jkscj1OWGNw,Rawalpindi Basant 2026 Omg 😱 Tukel say 3 ** 6 Tavy Aik Bari mai kat dea
+V_VID013,video,Rawalpindi,2026-07-02,https://www.youtube.com/watch?v=tEWuYUgiQRI,Rawalpindi Basant😱 25 Githi Tukely & Police 👮
